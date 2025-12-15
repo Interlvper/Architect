@@ -1,0 +1,23 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Architect",
+	"Description": "Generate PBR textures from any albedo map",
+	"Category": "Other",
+	"CreatedBy": "Interlvper",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Architect",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
